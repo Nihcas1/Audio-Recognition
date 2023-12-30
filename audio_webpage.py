@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import tensorflow as tf
 import librosa
 
 model_path = 'D:/dataset/final.h5'
