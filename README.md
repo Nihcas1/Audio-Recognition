@@ -1,3 +1,10 @@
+![image](https://github.com/user-attachments/assets/bf128b60-088e-46f4-933e-6f038e81e04f)!
+
+
+
+
+
+
 # Audio-Recognition
 The framework for audio-based emotion detection comprises two distinct phases:
 Phase 1: 
