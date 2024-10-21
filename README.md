@@ -42,7 +42,7 @@ In this initial phase, the focus lies on creating a robust audio classification 
 To set up this project locally:
 
 **Clone the repository:**
-git clone https://github.com/yourusername/Audio-Emotion-Recognition.git
+git clone https://github.com/nihcas1/Audio-Emotion-Recognition.git
 
 
 **Install the necessary dependencies:**
